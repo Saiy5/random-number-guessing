@@ -21,7 +21,9 @@ def guess_the_number():
                 break #Exit the loop when you guess the number
 
         except ValueError as v:
-            print(f"Invalied input. Please enter an Integer. {v}")
+            print("Please enter a valid number")
+        except KeyboardInterrupt:
+            print("\nProgram interrupted. Goodbye!")
                 
         
 if __name__ == "__main__":
