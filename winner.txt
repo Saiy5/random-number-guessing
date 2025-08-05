@@ -1,0 +1,3 @@
+Winner: kk
+Correct Number: 30
+Attempts: 10
