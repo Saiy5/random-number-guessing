@@ -1,7 +1,7 @@
 import random
 
 # Define the file name to store winner details
-WINNER_FILE = "winner.txt"
+WINNER_FILE = "YOUR_TXT_FILE"
 
 def save_winner(name, attempts, correct_number):
     """Save the winner's name, attempts, and correct number to the file, overwriting the previous winner."""
