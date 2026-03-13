@@ -16,7 +16,8 @@ random-number-guessing/
 ├── .gitignore
 ├── README.md
 
+```
 
 
 Use git clone for cloning: 
-``` https://github.com/Saiy5/random-number-guessing.git
+``` https://github.com/Saiy5/random-number-guessing.git ```
