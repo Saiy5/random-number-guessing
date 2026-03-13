@@ -10,3 +10,6 @@ env/
 
 # Environment variables
 .env
+
+# For files
+random_num.py
