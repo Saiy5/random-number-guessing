@@ -1,5 +1,22 @@
-First you need to install random module by: pip install random
-Then import it to you code by calling: import random
+# 👻 Random Number Guessing Game
+
+A beginner-friendly **number gussing game** built using **python-random module**
 
 
-Use git clone for cloning: https://github.com/Saiy5/random-number-guessing.git
+## 🛠 Tech Stack
+- Python
+
+## 📂 Project Structure
+
+```text
+random-number-guessing/
+│
+├── main.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+
+
+
+Use git clone for cloning: 
+``` https://github.com/Saiy5/random-number-guessing.git
