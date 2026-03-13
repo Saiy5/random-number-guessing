@@ -13,3 +13,6 @@ env/
 
 # For files
 random_num.py
+
+# For txt files
+*.txt
