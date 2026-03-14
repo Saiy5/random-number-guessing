@@ -19,5 +19,5 @@ random-number-guessing/
 ```
 
 
-Use git clone for cloning: 
+Clone the repo: 
 ``` https://github.com/Saiy5/random-number-guessing.git ```
