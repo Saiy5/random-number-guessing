@@ -9,7 +9,7 @@ def guess_the_number():
     while is_running: #This conditon should always be true
         try:
             a = int(input("Guess the number between 1 to 100: "))
-            guesses +=1  #Incorrect number count
+            guesses +=1  #Incorrect numbers count
 
             if(a > n):
                 print("Lower Number Please")
