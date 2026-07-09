@@ -31,9 +31,9 @@ def play_game():
                 f.write(f"Attempt {guesses}: {a}\n")
 
             if a > correct_number:
-                print("Lower number, please.")
+                print("Lower number, please 📉")
             elif a < correct_number:
-                print("Higher number, please.")
+                print("Higher number, please 📈")
             else:
                 print(f"🎉 Congratulations {name}! You guessed the number {correct_number} correctly in {guesses} attempts.")
 
