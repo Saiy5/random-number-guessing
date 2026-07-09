@@ -19,7 +19,7 @@ def guess_the_number():
 
             else:
                 print(f"You have guessed the number {n} correctly in {guesses} attempts")
-                is_running = False #Exit the loop when you guess the number
+                is_running = False #Exit the loop when you guess the correct number
 
         except ValueError:
             print("Please enter a valid number")
