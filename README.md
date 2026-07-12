@@ -12,6 +12,7 @@ A beginner-friendly **number gussing game** built using **python-random module**
 random-number-guessing/
 │
 ├── main.py
+├── main2.py
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
