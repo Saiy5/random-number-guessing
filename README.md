@@ -13,7 +13,6 @@ random-number-guessing/
 │
 ├── main.py
 ├── main2.py
-├── requirements.txt
 ├── .gitignore
 ├── README.md
 
